@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lofi-Music-Player/static/css/main.83ee5bcd.css",
+    "main.js": "/Lofi-Music-Player/static/js/main.6f363c9c.js",
+    "index.html": "/Lofi-Music-Player/index.html",
+    "main.83ee5bcd.css.map": "/Lofi-Music-Player/static/css/main.83ee5bcd.css.map",
+    "main.6f363c9c.js.map": "/Lofi-Music-Player/static/js/main.6f363c9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83ee5bcd.css",
+    "static/js/main.6f363c9c.js"
+  ]
+}
